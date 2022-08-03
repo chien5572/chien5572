@@ -3,5 +3,5 @@
 - Sex: male
 - School: Sai Gon University
 - Height: 167cm
-- Weight: 70kg
-- Facebook: https://www.facebook.com/thanhchien.vjp
+- Weight: 66kg
+- Facebook: https://www.facebook.com/chien5572
